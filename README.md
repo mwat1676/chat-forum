@@ -1,3 +1,5 @@
+Cloned from https://github.com/saket-shetty/chat-forum
+
 # chat-forum
 
 check it out: https://chatforum.herokuapp.com
